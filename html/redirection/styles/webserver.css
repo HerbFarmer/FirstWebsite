@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+}
+
+.content-a, .content-b {
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.content-a {
+  background-color: #f0f0f0;
+}
+
+.content-b {
+  background-color: #e0e0e0;
+}

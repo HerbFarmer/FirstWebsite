@@ -1,0 +1,161 @@
+body {
+  margin: 0vh;
+  padding: 0vh;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+.websiteversion {
+  position: absolute;
+  right: 1vh;
+  top: 1vh;
+  color: #000000;
+
+}
+
+.img1 {
+  background-image: url(/img/Background1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-position: center center;
+  align-items: center; /* Center content vertically */
+  justify-content: center; /* Center content horizontally */
+}
+
+.row1 {
+  display: flex; /* Use flexbox */
+  top: 20vh;
+  position: absolute;
+  left: 20vh;
+  right: 20vh;
+}
+
+.content {
+  flex: 1; /* Each content section takes up equal space */
+  border: 1px solid #ddd; /* Just for visualization */
+}
+
+.round-button {
+  background-color: #000000; /* Change to desired color */
+  border: none;
+  border-radius: 50%; /* Make it round */
+  width: 10vh; /* Adjust width and height as needed */
+  height: 10vh;
+  transition: all 0.5s ease; /* Smooth transition */
+}
+
+.round-button:hover {
+  background-color: chocolate;
+  height: 15vh;
+  width: 25vh;
+  border-radius: 0; /* So the circle turns into a square */
+}
+
+.button-text {
+  color: white; /* Change to desired text color */
+  font-size: 16px; /* Adjust font size as needed */
+  font-weight: bold;
+}
+
+
+.navbar {
+  position: absolute;
+  margin-left: 3vh;
+  left: 120px; /* Adjust the left position as needed */
+  width: 250px;
+  top: 26px;
+  opacity: 0; /* Initially hidden */
+  transition: opacity 0.3s ease; /* Transition effect */
+}
+
+.hamburger {
+  height: 5vh;
+  width: 5vh;
+}
+
+.menu {
+  height: 5vh;
+  width: 5vh;
+  margin-right: 1vh;
+}
+
+.navbar a {
+  display: block;
+  padding: 10px 0;
+  text-decoration: none;
+  color:#000000;
+  font-weight: 500;
+  font-size: 2vh;
+}
+
+.navbar-text {
+  position: absolute;
+  top: 30px;
+  left: 25px;
+  cursor: pointer;
+  font-size: 2.5vh;
+  color: #000000;
+  font-weight: 500;
+}
+
+.aboutme {
+  padding: 4vh;
+  background-color: black;
+  color: white;
+}
+
+.h2about {
+  padding-bottom: 2vh;
+}
+
+.abstandunten {
+  padding: 4vh;
+}
+
+.imgprojects {
+  display: flex;
+  width:  30vh;
+  height: 20vh;
+  object-fit: cover;
+}
+
+.abstand {
+  padding-bottom: 2vh;
+}
+
+.abstandtop {
+  padding-top: 2vh;
+}
+
+.footer {
+  background-color: black;
+  padding: 5vh;
+  margin-top: 2vh;
+}
+
+.underline {
+  border-bottom: 3px solid #000000;
+  text-transform: uppercase;
+}
+
+.fontfooter {
+  color: white;
+}
+
+.w3-container {
+  padding: 0.5em 16px;
+}
+
+.w3-border {
+  border: 1px solid #ffffff !important;
+}
+
+.w3-round-xlar {
+  border-radius: 16px;
+}
+
+
+
+.marginleft {
+  left: 0;
+}
