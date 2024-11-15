@@ -16,7 +16,7 @@ New Version
 -----------
 Check out the new version of my website that I’ve been working on for a while. Many components are inspired by this original project:
 
-🌐 My New Website
+🌐 https://herbfarmer.me
 
 
 Thanks to the Community
