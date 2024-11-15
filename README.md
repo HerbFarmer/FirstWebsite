@@ -1,5 +1,4 @@
 # FirstWebsite
---------------
 Welcome to my very first website project! 🚀 I’m excited to finally share it with the world. Feel free to use it as inspiration or a starting point for building your own awesome site. I hope it helps kickstart your web development journey!
 
 
