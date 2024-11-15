@@ -22,3 +22,6 @@ Check out the new version of my website that I’ve been working on for a while.
 Thanks to the Community
 -----------------------
 A huge thank you to the amazing community for all the support, tutorials, and articles that guided me through this project. Your help made this possible!
+
+
+[if you have problems with the vs code live server then only open the html folder in vs code and try it again]
